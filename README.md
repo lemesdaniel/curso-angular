@@ -27,4 +27,4 @@ Curso de Angular
   - Refactory CRUD de cadastro de clientes
   - Paginando dados
 
-- ** Dependency injection com AngularJS **  
+- **Dependency injection com AngularJS**  
